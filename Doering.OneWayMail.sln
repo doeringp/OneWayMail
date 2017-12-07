@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Doering.OneWayMail.Service", "Doering.OneWayMail.Service\Doering.OneWayMail.Service.csproj", "{76959CBC-34D5-41C5-9513-8A34AB69DB9C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Doering.OneWayMail.Web", "Doering.OneWayMail.Web\Doering.OneWayMail.Web.csproj", "{231A062A-FDC5-4290-B91F-FA4326787887}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Doering.OneWayMail", "Doering.OneWayMail\Doering.OneWayMail.csproj", "{9FC51274-795A-4090-A9D6-7533C47BC1A0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{76959CBC-34D5-41C5-9513-8A34AB69DB9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76959CBC-34D5-41C5-9513-8A34AB69DB9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76959CBC-34D5-41C5-9513-8A34AB69DB9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76959CBC-34D5-41C5-9513-8A34AB69DB9C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{231A062A-FDC5-4290-B91F-FA4326787887}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{231A062A-FDC5-4290-B91F-FA4326787887}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{231A062A-FDC5-4290-B91F-FA4326787887}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{231A062A-FDC5-4290-B91F-FA4326787887}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9FC51274-795A-4090-A9D6-7533C47BC1A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FC51274-795A-4090-A9D6-7533C47BC1A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9FC51274-795A-4090-A9D6-7533C47BC1A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9FC51274-795A-4090-A9D6-7533C47BC1A0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,39 @@
+﻿/* Move down content because we have a fixed navbar that is 50px tall */
+body {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.body-content {
+    max-width: 1024px;
+}
+
+.jumbotron {
+    padding: 0 !important;
+    background-color: transparent;
+}
+
+.alert {
+    margin: 15px 0
+}
+
+/* Responsive: Portrait tablets and up */
+@media screen and (min-width: 768px) {
+
+    .jumbotron {
+        margin-top: 20px;
+    }
+
+    .body-content {
+        padding: 0;
+    }
+}
+
+.invalid, .invalid:focus {
+    border: 1px solid red;
+}
+
+a.nolink {
+    color: inherit;
+    text-decoration: none;
+}
