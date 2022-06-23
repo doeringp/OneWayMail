@@ -16,7 +16,7 @@ Most mailservers support setting up a so-called catch-all mail forwarding to a s
 * Mail server (I love hMailServer) which supports IMAP.
 * A catch-all mailbox
 * Windows Server with IIS
-* .NET 4.5.2 Framework
+* .NET 4.8 Framework
 * SQL Server
 
 ## Configuration
